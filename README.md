@@ -28,7 +28,7 @@ Este gráfico, generado con la librería Plotly permite filtrar los valores arra
 
 Si se quieren probar las funcionalidades interactivas puede descargarse la versión completa desde el siguiente enlace: https://github.com/elsatch/pec2-visualizacion-datos/blob/main/visualization/paralell_coordinates.html
 
-Github no muestra ahora mismo ficheros html de tamaño tan grande.
+Github no muestra ahora mismo ficheros html de tamaño tan grande, por lo que debe descargarse a local.
 
 ## Connected Scatterplot
 
